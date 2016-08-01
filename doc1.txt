@@ -1,2 +1,4 @@
 aaaaaaaaaa
-added by local in branch2
+merge edited line in branch: added by local in branch2
+merge edited line in master: this line is ected from remote
+
